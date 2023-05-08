@@ -7,3 +7,9 @@ ditaduras do Salazarismo e Franquismo, utilizando de boas práticas para desenvo
 > Baixe a pasta _Totalitarismo Site_ <br>
 > E abra o arquivo _index.html_ pelo navegador <br>
 > Link Totalitarismo Site.zip: https://github.com/AnnyACAM/Geopolitica/archive/refs/heads/main.zip
+
+### Integrantes
+Anny Caroline
+Júlia Alice
+Nicolle Taila
+Vitória Ellen
