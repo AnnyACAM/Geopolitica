@@ -1,12 +1,12 @@
 # Site Salazarismo e Franquismo
 
 Site desenvolvido para as matérias de DAW e Geopolítica, com objetivo de produzir um conteúdo informativo sobre as 
-ditaduras do Salazarismo e Franquismo, utilizando de boas práticas para desenvolvimento.
+ditaduras do Salazarismo e Franquismo.
 
-## Vizualzar o site
+## Vizualizar o site
 > Baixe a pasta _Totalitarismo Site_ <br>
-> E abra o arquivo _index.html_ pelo navegador <br>
 > Link Totalitarismo Site.zip: https://github.com/AnnyACAM/Geopolitica/archive/refs/heads/main.zip
+> E abra o arquivo _index.html_ pelo navegador <br>
 
 ### Integrantes
 Anny Caroline, 
