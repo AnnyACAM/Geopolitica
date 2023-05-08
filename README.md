@@ -9,7 +9,7 @@ ditaduras do Salazarismo e Franquismo, utilizando de boas práticas para desenvo
 > Link Totalitarismo Site.zip: https://github.com/AnnyACAM/Geopolitica/archive/refs/heads/main.zip
 
 ### Integrantes
-Anny Caroline
-Júlia Alice
-Nicolle Taila
+Anny Caroline, 
+Júlia Alice, 
+Nicolle Taila, 
 Vitória Ellen
