@@ -6,7 +6,7 @@ ditaduras do Salazarismo e Franquismo.
 ## Vizualizar o site
 > Baixe a pasta _Totalitarismo Site_ <br>
 > Link Totalitarismo Site.zip: https://github.com/AnnyACAM/Geopolitica/archive/refs/heads/main.zip <br>
-> E abra o arquivo _index.html_ pelo navegador <br>
+> E abra o arquivo _index.html_<br>
 
 ### Integrantes
 Anny Caroline, 
